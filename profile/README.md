@@ -3,7 +3,10 @@
 
 ### Aveloxis Community Aims
 1. Stable and effectively governed open source software community health and sustainability metrics. We take our decade building CHAOSS software, and continue our work in an open source software community. 
-2. Full support for software supply chain artifacts. Aveloxis/Aveloxis currently produces valid SPDX and CycloneDX SBOM's for Every repository in the fleet, as well as full vulnerability analysis for every package managed dependency, as well as the repositories themselves. 
-3. Prediction models (currently in private repositories, pending publication).
-4. Technical debt models (currently in private repositories, pending publication).
-5. Our front end is available at https://aveloxis.io and if you are interested in your own deployment, please contact us at aveloxis.io@gmail.com 
+2. Ensuring human usable systems and information for securing the software supply chain.
+  - Full support for software supply chain artifacts. Aveloxis/Aveloxis currently produces valid SPDX and CycloneDX SBOM's for Every repository in the fleet, as well as
+  - Full vulnerability analysis for every package managed dependency, as well as the repositories themselves.
+  - All designed for non-security-focused software and IT professionals, organizations, OSPOs, and scientific software communities. 
+4. Prediction models (currently in private repositories, pending publication).
+5. Technical debt models (currently in private repositories, pending publication).
+6. Our front end is available at https://aveloxis.io and if you are interested in your own deployment, please contact us at aveloxis.io@gmail.com 
